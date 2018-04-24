@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/nsstanev/Client.git
+[submodule "Hardcore"]
+	path = Hardcore
+	url = https://github.com/nsstanev/Hardcore.git
