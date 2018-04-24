@@ -43,5 +43,11 @@
     <Compile Include="SoftcoreClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hardcore\Hardcore\Hardcore.csproj">
+      <Project>{eecdcdca-add0-49ae-90b4-a0f82541222f}</Project>
+      <Name>Hardcore</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

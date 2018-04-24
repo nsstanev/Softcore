@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Hardcore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace Softcore
     {
         public void DoSomething()
         {
+            var hc = new HardcoreClass();
         }
     }
 }
