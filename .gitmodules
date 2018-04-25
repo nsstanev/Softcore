@@ -4,3 +4,7 @@
 [submodule "Hardcore"]
 	path = Hardcore
 	url = https://github.com/nsstanev/Hardcore.git
+[submodule "client"]
+	branch = master
+[submodule "hardcore"]
+	branch = master
